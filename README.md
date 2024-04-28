@@ -4,26 +4,23 @@ Welcome to the CO2 Emission Analysis Visualization Project! This repository is c
 
 Following are my details:
 
-MY NAME: Dora Eswar
+MY NAME: Srinivas gadde
 
-MY MAIL ID: eswardora2003@gmail.com
+MY MAIL ID:  srinivasgadde000@gmail.com
 
 ACADEMIC DETAILS: B.Tech(CSE),4th Year (8th Sem)
 
 COLLEGE NAME: Pragati Engineering College
 
-ROLL NUMBER: 20A31A05G7
+ROLL NUMBER: 20A31A05G9
 
 IN THIS FILE , WE CAN SEE ALL LINKS FOR THE ENTIRE PROJECT
 
 DASHBOARD 1 LINK: 
-https://public.tableau.com/app/profile/dora.eswar/viz/CO2EmissionsDashboard_17141557807330/Dashboard1
-
+https://public.tableau.com/app/profile/srinivas.gadde/viz/CO2DemoDash_17142975080410/Dashboard1?publish=yes
 DASHBOARD 2 LINK: 
-https://public.tableau.com/app/profile/dora.eswar/viz/CO2EmissionsDashboard_17141557807330/Dashboard2
-
+https://public.tableau.com/app/profile/srinivas.gadde/viz/CO2DemoDash_17142975080410/Dashboard1?publish=yes
 DASHBOARD 3 LINK: 
-https://public.tableau.com/app/profile/dora.eswar/viz/CO2EmissionsDashboard_17141557807330/Dashboard3
-
+https://public.tableau.com/app/profile/srinivas.gadde/viz/CO2DemoDash_17142975080410/Dashboard1?publish=yes
 STORY LINK:
-https://public.tableau.com/app/profile/dora.eswar/viz/CO2Emissionsstory_17141562410720/CO2EmissionStory
+https://public.tableau.com/app/profile/srinivas.gadde/viz/CO2Demostory_17142976651900/CO2EmissionStory?publish=yes
